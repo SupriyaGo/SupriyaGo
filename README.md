@@ -10,13 +10,13 @@
 
 - 👯 I’m looking to collaborate on **open-source projects.**
 
-- 🤝 I have a keen interest to learn **Machine Learning and backend techs.**
+- 🤝 I have keen interest to learn **Machine Learning and backend technologies.**
 
-- 💬 Ask me about **anything related to frontend and react-native**
+- 💬 Ask me **anything about frontend and react-native** development.
 
 - 📫 How to reach me **supriyagorai1995@gmail.com**
 
-- ⚡ Fun fact **I love to play ukulele - Valorant is my current favorite game.**
+- ⚡ Fun fact: **I love to play ukulele - Valorant is my current favorite game.**
 
 ---
 
