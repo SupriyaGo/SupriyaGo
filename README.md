@@ -12,10 +12,10 @@ Hi there, I am Supriya 👋
 
 Spotify Playing 🎧
 
-[![Spotify](https://novatorem-supriyago.vercel.app/api/spotify)](https://open.spotify.com/user/4r7g0rxfyb25r4lufve37ydbc)
+[![Spotify](https://novatorem-ay2ouevei-supriyago.vercel.app/api/spotify)](https://open.spotify.com/user/4r7g0rxfyb25r4lufve37ydbc)
 
 
-[<img src="https://novatorem-supriyago.vercel.app/api/spotify-playing" alt="Spotify now playing" width="350"/>](https://open.spotify.com/user/4r7g0rxfyb25r4lufve37ydbc)
+[<img src="https://novatorem-ay2ouevei-supriyago.vercel.app/api/spotify-playing" alt="Spotify now playing" width="350"/>](https://open.spotify.com/user/4r7g0rxfyb25r4lufve37ydbc)
 
 <a href="https://novatorem-ay2ouevei-supriyago.vercel.app/now-playing?open">
     <img src="https://novatorem-ay2ouevei-supriyago.vercel.app/now-playing" width="256" height="64" alt="Now Playing">`
