@@ -17,8 +17,8 @@ Spotify Playing 🎧
 
 [<img src="https://novatorem-ay2ouevei-supriyago.vercel.app/api/spotify-playing" alt="Spotify now playing" width="350"/>](https://open.spotify.com/user/4r7g0rxfyb25r4lufve37ydbc)
 
-<a href="https://novatorem-ay2ouevei-supriyago.vercel.app/now-playing?open">
-    <img src="https://novatorem-ay2ouevei-supriyago.vercel.app/now-playing" width="256" height="64" alt="Now Playing">`
+<a href="https://novatorem-gamma-nine.vercel.app/now-playing?open">
+    <img src="https://novatorem-gamma-nine.vercel.app/now-playing" width="256" height="64" alt="Now Playing">`
 </a>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SupriyaGo)](https://github.com/SupriyaGo/github-readme-stats)
