@@ -12,6 +12,8 @@ Hi there, I am Supriya 👋
 
 Spotify Playing 🎧
 
+[<img src="https://novatorem-git-master-supriyago.vercel.app/api/spotify-playing" alt="Spotify now playing" width="350"/>](https://open.spotify.com/user/4r7g0rxfyb25r4lufve37ydbc)
+
 [![Spotify](https://novatorem-git-master-supriyago.vercel.app/api/spotify)](https://open.spotify.com/user/4r7g0rxfyb25r4lufve37ydbc)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SupriyaGo)](https://github.com/SupriyaGo/github-readme-stats)
