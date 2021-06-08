@@ -3,16 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=supriyago&label=Profile%20views&color=0e75b6&style=flat" alt="supriyago" /> </p>
 
-[![Spotify](https://novatorem-git-master-supriyago.vercel.app/api/spotify)](https://open.spotify.com/user/4r7g0rxfyb25r4lufve37ydbc)
-
-
-[<img src="https://novatorem-git-master-supriyago.vercel.app/api/spotify-playing" alt="Spotify now playing" width="350"/>](https://open.spotify.com/user/4r7g0rxfyb25r4lufve37ydbc)
-
-
-<a href="https://novatorem-ay2ouevei-supriyago.vercel.app/now-playing?open">
-    <img src="https://novatorem-ay2ouevei-supriyago.vercel.app/now-playing" width="256" height="64" alt="Now Playing">`
-</a>
-
 
 - 🔭 I’m currently working at **Convergent Infoware Pvt Ltd.**
 
