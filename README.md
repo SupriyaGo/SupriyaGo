@@ -21,6 +21,13 @@
 
 ---
 
+Spotify Playing 🎧
+
+[[https://spotify-github-profile.vercel.app/api/view.svg?uid=4r7g0rxfyb25r4lufve37ydbc&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=4r7g0rxfyb25r4lufve37ydbc&cover_image=true&theme=novatorem)]]
+
+
+---
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/supriya-gorai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="supriya-gorai" height="30" width="40" /></a>
