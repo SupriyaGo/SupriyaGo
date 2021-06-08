@@ -1,5 +1,9 @@
-<h1 align="center">Hi 👋, I'm Supriya</h1>
-<h3 align="center">A passionate Frontend Developer & Data Science enthusiast from India</h3>
+<h1 align="left">Hi 👋, I'm Supriya</h1>
+<!-- <h3 align="center">A passionate Frontend Developer & Data Science enthusiast from India</h3> -->
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=roboto&color=FFF&width=700&lines=Frontend+Developer+%26+Data+Science+enthusiast+from+India.)](https://git.io/typing-svg)
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=supriyago&label=Profile%20views&color=0e75b6&style=flat" alt="supriyago" /> </p>
 
