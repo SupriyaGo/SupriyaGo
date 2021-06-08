@@ -4,6 +4,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=supriyago&label=Profile%20views&color=0e75b6&style=flat" alt="supriyago" /> </p>
 
 
+
+
+
 - 🔭 I’m currently working at **Convergent Infoware Pvt Ltd.**
 
 - 🌱 I’m currently learning **Python, React js, PWA and more about Web technologies.**
@@ -13,8 +16,6 @@
 - 🤝 I have keen interest to learn **Machine Learning and backend technologies.**
 
 - 💬 Ask me **anything about frontend and react-native** development.
-
-- 📫 How to reach me **supriyagorai1995@gmail.com**
 
 - ⚡ Fun fact: **I love to play ukulele - Valorant is my current favorite game.**
 
