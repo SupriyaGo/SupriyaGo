@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Supriya</h1>
-<!-- <h3 align="center">A passionate Frontend Developer & Data Science enthusiast from India</h3> -->
+<!-- <h3 align="center">A passionate Frontend Developer & Blockchain enthusiast from India</h3> -->
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=roboto&color=FFF&width=700&lines=Frontend+Developer+%26+Data+Science+enthusiast+from+India.)](https://git.io/typing-svg)
 
@@ -11,17 +11,17 @@
 
 
 
-- 🔭 I’m currently working at **Convergent Infoware Pvt Ltd.**
+- 🔭 I’m currently working at **Optiks Innovation Pvt Ltd.**
 
-- 🌱 I’m currently learning **Python, React js, PWA and more about Web technologies.**
+- 🌱 I’m currently learning **Nuxt, Vue, React and more about Web technologies.**
 
 - 👯 I’m looking to collaborate on **open-source projects.**
 
-- 🤝 I have keen interest to learn **Machine Learning and backend technologies.**
+- 🤝 I have keen interest to learn **Blockchain and Web3 technologies.**
 
-- 💬 Ask me **anything about frontend and react-native** development.
+- 💬 Ask me **anything about frontend** development.
 
-- ⚡ Fun fact: **I love to play ukulele - Valorant is my current favorite game.**
+- ⚡ Fun fact: **I love to listen music and currently learning to play ukulele - Share Market is my fav place I love to dive in my free time.**
 
 ---
 
@@ -37,6 +37,7 @@ Spotify Playing 🎧
 <a href="https://linkedin.com/in/supriya-gorai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="supriya-gorai" height="30" width="40" /></a>
 <a href="https://fb.com/supriya.gorai.7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="supriya.gorai.7" height="30" width="40" /></a>
 <a href="https://instagram.com/the_bangali_man" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="the_bangali_man" height="30" width="40" /></a>
+  <a href="https://twitter.com/supriya_gorai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@supriya_gorai" height="30" width="40" /></a>
 </p>
 
 ---
